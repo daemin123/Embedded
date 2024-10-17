@@ -1,0 +1,21 @@
+C:\Users\jwg13\Downloads\MODULE_PROJECT\bin\Debug\MODULE_PROJECT.exe.config
+C:\Users\jwg13\Downloads\MODULE_PROJECT\bin\Debug\MODULE_PROJECT.exe
+C:\Users\jwg13\Downloads\MODULE_PROJECT\bin\Debug\MODULE_PROJECT.pdb
+C:\Users\jwg13\Downloads\MODULE_PROJECT\obj\Debug\MODULE_PROJECT.csproj.AssemblyReference.cache
+C:\Users\jwg13\Downloads\MODULE_PROJECT\obj\Debug\MODULE_PROJECT.csproj.SuggestedBindingRedirects.cache
+C:\Users\jwg13\Downloads\MODULE_PROJECT\obj\Debug\MODULE_PROJECT.Form1.resources
+C:\Users\jwg13\Downloads\MODULE_PROJECT\obj\Debug\MODULE_PROJECT.Properties.Resources.resources
+C:\Users\jwg13\Downloads\MODULE_PROJECT\obj\Debug\MODULE_PROJECT.csproj.GenerateResource.cache
+C:\Users\jwg13\Downloads\MODULE_PROJECT\obj\Debug\MODULE_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\jwg13\Downloads\MODULE_PROJECT\obj\Debug\MODULE_PROJECT.exe
+C:\Users\jwg13\Downloads\MODULE_PROJECT\obj\Debug\MODULE_PROJECT.pdb
+C:\Users\Administrator\Downloads\새 폴더\LEC\09_EMBEDDED\C#PROJECT\00 모듈시험프로젝트\bin\Debug\MODULE_PROJECT.exe.config
+C:\Users\Administrator\Downloads\새 폴더\LEC\09_EMBEDDED\C#PROJECT\00 모듈시험프로젝트\bin\Debug\MODULE_PROJECT.exe
+C:\Users\Administrator\Downloads\새 폴더\LEC\09_EMBEDDED\C#PROJECT\00 모듈시험프로젝트\bin\Debug\MODULE_PROJECT.pdb
+C:\Users\Administrator\Downloads\새 폴더\LEC\09_EMBEDDED\C#PROJECT\00 모듈시험프로젝트\obj\Debug\MODULE_PROJECT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\새 폴더\LEC\09_EMBEDDED\C#PROJECT\00 모듈시험프로젝트\obj\Debug\MODULE_PROJECT.Form1.resources
+C:\Users\Administrator\Downloads\새 폴더\LEC\09_EMBEDDED\C#PROJECT\00 모듈시험프로젝트\obj\Debug\MODULE_PROJECT.Properties.Resources.resources
+C:\Users\Administrator\Downloads\새 폴더\LEC\09_EMBEDDED\C#PROJECT\00 모듈시험프로젝트\obj\Debug\MODULE_PROJECT.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\새 폴더\LEC\09_EMBEDDED\C#PROJECT\00 모듈시험프로젝트\obj\Debug\MODULE_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\새 폴더\LEC\09_EMBEDDED\C#PROJECT\00 모듈시험프로젝트\obj\Debug\MODULE_PROJECT.exe
+C:\Users\Administrator\Downloads\새 폴더\LEC\09_EMBEDDED\C#PROJECT\00 모듈시험프로젝트\obj\Debug\MODULE_PROJECT.pdb

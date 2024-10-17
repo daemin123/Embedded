@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<h1>INDEX</h1>
+<fieldset style="width:200px;">
+  <legend>CONNECTION</legend>
+  <input class="com_port">
+  <button class="conn_btn">CONN</button>
+</fieldset>
+<fieldSet style="width:200px;">
+  <legend>LED</legend>
+  <button class="led_on">LED ON</button>
+  |
+  <button class="led_off">LED OFF</button>
+</fieldSet>
+
+<!-- axios cdn -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.5.0/axios.min.js" integrity="sha512-aoTNnqZcT8B4AmeCFmiSnDlc4Nj/KPaZyB5G7JnOnUEkdNpCZs1LCankiYi01sLTyWy+m2P+W4XM+BuQ3Q4/Dg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+  const led_on_btn = document.querySelector('.led_on');
+  const led_off_btn = document.querySelector('.led_off');
+
+  const conn_btn = document.querySelector('.conn_btn');
+  conn_btn.addEventListener('click',function(){
+
+       const port = document.querySelector('.com_port').value;
+       axios.get(`/arduino/connection/${port}`)
+      .then(response=>{})
+      .catch(error=>{});
+
+  });
+
+  led_on_btn.addEventListener('click',function(){
+
+      axios.get('/arduino/led/1')
+      .then(response=>{})
+      .catch(error=>{});
+
+  });
+  led_off_btn.addEventListener('click',function(){
+      axios.get('/arduino/led/0')
+      .then(response=>{})
+      .catch(error=>{});
+  });
+
+</script>
+
+</body>
+</html>

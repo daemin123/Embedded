@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\새 폴더\LEC\C#\INIT\bin\Debug\INIT.exe.config
+C:\Users\Administrator\Downloads\새 폴더\LEC\C#\INIT\bin\Debug\INIT.exe
+C:\Users\Administrator\Downloads\새 폴더\LEC\C#\INIT\bin\Debug\INIT.pdb
+C:\Users\Administrator\Downloads\새 폴더\LEC\C#\INIT\obj\Debug\INIT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\새 폴더\LEC\C#\INIT\obj\Debug\INIT.Form1.resources
+C:\Users\Administrator\Downloads\새 폴더\LEC\C#\INIT\obj\Debug\INIT.Properties.Resources.resources
+C:\Users\Administrator\Downloads\새 폴더\LEC\C#\INIT\obj\Debug\INIT.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\새 폴더\LEC\C#\INIT\obj\Debug\INIT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\새 폴더\LEC\C#\INIT\obj\Debug\INIT.exe
+C:\Users\Administrator\Downloads\새 폴더\LEC\C#\INIT\obj\Debug\INIT.pdb
